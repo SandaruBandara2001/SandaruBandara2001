@@ -10,9 +10,10 @@ Software Engineering Student
 * 🚀  I'm currently working on [portfolio](http://sandarubandara.me/)
 * 🧠  I'm learning React and Wordpress
 * 🤝  I'm open to collaborating on Projects
+* ⚡  My academic GitHub account - sandaru20200649
 
-<a href="https://www.github.com/SandaruBandara2001" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SandaruBandara2001?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Sandaru18769360" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/sandaru20200649" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/sandaru20200649?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/Sandaru18769360" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Sandaru18769360?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -38,20 +39,20 @@ src="https://img.shields.io/twitter/follow/Sandaru18769360?logo=twitter&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/sandaru.bandara27?mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SandaruBandara2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zandaru._?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sandaru-bandara-5ab147220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sandaru18769360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/sandaru.bandara27?mibextid=LQQJ4d" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sandaru20200649" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zandaru._?igshid=MzRlODBiNWFlZA==" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sandaru-bandara-5ab147220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Sandaru18769360" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SandaruBandara2001"><img src="https://github-readme-stats.vercel.app/api?username=SandaruBandara2001&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SandaruBandara2001's GitHub stats" /></a>
+<a href="http://www.github.com/sandaru20200649"><img src="https://github-readme-stats.vercel.app/api?username=sandaru20200649&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sandaru20200649's GitHub stats" /></a>
 
-<a href="http://www.github.com/SandaruBandara2001"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SandaruBandara2001&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sandaru20200649"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sandaru20200649&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/SandaruBandara2001"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SandaruBandara2001&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sandaru20200649"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=sandaru20200649&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/SandaruBandara2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruBandara2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sandaru20200649" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandaru20200649&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SandaruBandara2001/GenUml" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SandaruBandara2001&repo=GenUml&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/sandaru20200649/sandaru20200649.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sandaru20200649&repo=sandaru20200649.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
