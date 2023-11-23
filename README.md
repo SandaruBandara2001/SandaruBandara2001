@@ -7,7 +7,7 @@ Software Engineering Student
 * 🌍  I'm based in Sri Lanka
 * 🖥️  See my portfolio at [My Portfolio](http://sandarubandara.me/)
 * ✉️  You can contact me at [zandaruapple@gmail.com](mailto:zandaruapple@gmail.com)
-* 🚀  I'm currently working on [portfolio](http://sandarubandara.me/)
+* 🚀  I'm currently working as a software engineer intern on Archmage Solutions (Pvt) Ltd.
 * 🧠  I'm learning React and Wordpress
 * 🤝  I'm open to collaborating on Projects
 * ⚡  My academic GitHub account - sandaru20200649
